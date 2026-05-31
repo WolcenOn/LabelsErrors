@@ -1,0 +1,10 @@
+{
+  "categoria": "Apps",
+  "icono": "📱",
+  "etiquetas": ["errores", "etiquetas", "utilidad", "diagnóstico"],
+  "descripcion": "Herramienta para organizar etiquetas, errores o mensajes de diagnóstico.",
+  "demo": "",
+  "destacado": false,
+  "orden": 46,
+  "ocultar": false
+}
